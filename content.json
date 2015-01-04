@@ -9,6 +9,7 @@
                     "osm" : "internet_access=wlan",
                     "lang-de":"Wifi",
                     "lang-en":"Wifi"
+                    "lang-fr":"Wifi"
                     },
 
     "water" : {
